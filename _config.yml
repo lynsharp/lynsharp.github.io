@@ -18,3 +18,10 @@ author:
 # Custom vars
 icon: /assets/images/icon.png
 cover:  /assets/images/cover.jpg
+
+menu:
+  - title: Home
+    url: /
+    
+  - title: About
+    url: /about
